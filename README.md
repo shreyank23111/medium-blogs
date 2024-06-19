@@ -1,8 +1,8 @@
-Medium Blog Website Clone
+# Medium Blog Website Clone
 Project Overview
 This repository contains the code for a Medium blog website clone, built with a serverless backend using Cloudflare Workers, PostgreSQL, and Prisma ORM. The front end is developed with React, and custom npm packages are utilized. Connection pooling is implemented to manage database connections efficiently.
 
-Tech Stack
+#Tech Stack
 Backend
 Cloudflare Workers: Used for serverless computing, enabling scalable and efficient back-end operations.
 PostgreSQL: Relational database used for storing user data, posts, comments, and other relevant information.
