@@ -4,11 +4,11 @@ This repository contains the code for a Medium blog website clone, built with a 
 
 # Tech Stack
 ## Backend
-Cloudflare Workers: Used for serverless computing, enabling scalable and efficient back-end operations.
-PostgreSQL: Relational database used for storing user data, posts, comments, and other relevant information.
-Prisma ORM: Object-Relational Mapping tool for seamless database interaction and type-safe queries.
-TypeScript: Ensures type safety and improves code quality across the project.
-Node.js with Hono: Node.js runtime with Hono framework for handling server-side logic and routing.
+- Cloudflare Workers: Used for serverless computing, enabling scalable and efficient back-end operations.
+- PostgreSQL: Relational database used for storing user data, posts, comments, and other relevant information.
+- Prisma ORM: Object-Relational Mapping tool for seamless database interaction and type-safe queries.
+- TypeScript: Ensures type safety and improves code quality across the project.
+- Node.js with Hono: Node.js runtime with Hono framework for handling server-side logic and routing.
 ## Frontend
 React: JavaScript library for building interactive user interfaces.
 Custom NPM Packages: Created and utilized custom npm packages for specific functionalities, enhancing modularity and reusability.
