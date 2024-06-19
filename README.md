@@ -10,11 +10,11 @@ This repository contains the code for a Medium blog website clone, built with a 
 - TypeScript: Ensures type safety and improves code quality across the project.
 - Node.js with Hono: Node.js runtime with Hono framework for handling server-side logic and routing.
 ## Frontend
-React: JavaScript library for building interactive user interfaces.
-Custom NPM Packages: Created and utilized custom npm packages for specific functionalities, enhancing modularity and reusability.
+- React: JavaScript library for building interactive user interfaces.
+- Custom NPM Packages: Created and utilized custom npm packages for specific functionalities, enhancing modularity and reusability.
 ## Features
-User Authentication: Secure user login and registration system.
-Post Creation and Editing: Functionality for users to create, edit, and delete blog posts.
-Comments: Ability to comment on posts, with real-time updates.
-Responsive Design: Ensures optimal viewing experience across various devices.
-Connection Pooling: Efficient management of database connections to enhance performance.
+- User Authentication: Secure user login and registration system.
+- Post Creation and Editing: Functionality for users to create, edit, and delete blog posts.
+- Comments: Ability to comment on posts, with real-time updates.
+- Responsive Design: Ensures optimal viewing experience across various devices.
+- Connection Pooling: Efficient management of database connections to enhance performance.
